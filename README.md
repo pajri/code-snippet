@@ -6,10 +6,10 @@ More details about visual studui code snippet : https://code.visualstudio.com/do
 ## How to add code snippet
 
 <ol>
-  <li> Select File &rarr; Preferences &rarr; User Snippets <br/>
-       <img src="https://github.com/Pajri/Visual-Studio-Code-Snippet/blob/master/Java/assets/java%20code%20snippet.gif"/>
+  <li> Select File &rarr; Preferences &rarr; User Snippets
   </li>
   <li> Type programming language that you wnat to create the code snippet for <br/>
+        <img src="https://github.com/Pajri/Visual-Studio-Code-Snippet/blob/master/Java/assets/java%20code%20snippet.gif"/> <br/>
         This is example of the code snippet. I write this code snippet for java.
 <pre>
 "Print to console": {
