@@ -11,7 +11,7 @@ This repository contains a collection of useful code snippets for various develo
 ```
 /code-snippets
 │── vscode/           # VS Code snippets (.json files)
-│── colab/            # Google Colab scripts (.ipynb)
+│── colab/            # Google Colab scripts (.py)
 
 ```
 
